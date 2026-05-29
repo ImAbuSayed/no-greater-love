@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-greater-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for No Greater Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-greater-love/) |
+| **Get License** | [Commercial Licensing for No Greater Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-greater-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows fall across the wooden floor
+> I only want you closer than before
+> Your whisper pulls me out into the light
+> We are burning like a fire through the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
