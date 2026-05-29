@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-greater-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for No Greater Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-greater-love/) |
+| **Get License** | [Secure Licensing Rights for No Greater Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-greater-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7a7c0f919808d2471eb66d929eec30fd01c30913d03b5b93ba2d6c27b13c3be3` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
